@@ -25,8 +25,8 @@
  - Blockchain: Ethereum / Near Protocol / Klaytn / Solana / Aleo / SUI / Polkadot / Zk-EVM /...
  - Front-end: ReactJs / NextJs / TypeScript / PHP / ...
  - Back-end: Node.js /...
- - Smart Contract: Solidity (EVM) / *Ink!* (Update) / *Phat Contract* (Update)
- - Major Languages: **NextJs** / **Solidity** / *Rust* (Update) / *Sui Move* (Update)
+ - Smart Contract: Solidity (EVM) / *Ink!* / *Move* / *Phat Contract* (Update)
+ - Major Languages: **NextJs** / **Solidity** / *Rust* (Update) / *Sui* (Update)
 ---
 Where I live on the web:
 -----------------------
