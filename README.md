@@ -18,10 +18,11 @@
 
 ---
 **About Me**
-- I’m a Full Stack Web3 Developer and Co-Founder of OLYM3 AI Hub, an initiative powered by Olym3 Co.,LTD — a company based in Ho Chi Minh City, Vietnam, dedicated to supporting education and driving innovation through advanced AI tools and research. We empower users to solve real-world challenges and build meaningful solutions.
+- I'm a Full Stack AI and Web3 Developer and Founder & CEO of OLYM3, a company that operates in the field of education support in Ho Chi Minh City, Vietnam.
 - Become a volunteer in the Chainlink Developer Expert Program from August 2024 as a Blockchain Service Integration and Smart Contract Developer.
 - Currently, I develop blockchain-based applications. I started teaching, programming and researching Blockchain and Web3 in 2020.
 - I have a passion for contributing to more accessible open-source code, helping young people understand and be passionate about Blockchain and Blockchain Technology as much as possible.
+- I am an AI & Web3 educator, mentor for DApps, local and global hackathon judge, empowering young innovators and shaping the future of decentralized technologies through education and guidance.
 ---
 **I'm working in:**
  - Blockchain: Ethereum / Ronin / Kaia / Solana / Movement / SUI / Polkadot / Cosmos /...
